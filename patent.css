@@ -62,7 +62,7 @@ header ul li a{
 .info__header h3:before{
     content: '';
     position: absolute;
-    bottom: 340px;
+    bottom: 310px;
     width: 100px;
     height: 5px;
     margin: 0px 140px;
