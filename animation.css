@@ -72,23 +72,19 @@ header ul li a{
     display: none;
 }
 
-.photo{
+.video__box{
     width: 100%;
     height: 100%;
-    position: relative;
-    top:190px
+    padding-top: 5px;
 }
-.photo img{
+.video__box video{
     width: 100%;
-
 }
 
 footer{
-    position: relative;
     text-align: center;
     padding-top: 15px;
     height: 50px;
-    top: 950px;
 
     color: white;
     background: #3a3a3a;
@@ -155,18 +151,19 @@ footer{
     }
 
     footer{
+        position: relative;
         width: 100vh;
-        top: 740px;
+        top: 300px;
     }
 }
 @media(max-width: 416px){
     footer{
-        top: 540px;
+        top: 780px;
     }
 }
 @media(max-width: 395px){
     footer{
-        top: 500px;
+        top: 620px;
     }
 }
 @media(max-width: 376px){
