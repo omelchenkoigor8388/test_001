@@ -108,7 +108,7 @@ footer{
     position: absolute;
     width: 100%;
     height: max-content;
-    top: 208%;
+    bottom: -110vh;
     text-align: center;
     color: rgb(255, 255, 255);
     background-color: #3a3a3a;
@@ -166,64 +166,8 @@ footer{
     .poster h3{
         font-size: 40px;
     }
-}
-@media(max-width: 912px){
-    .background{
-        padding: 60px 150px;
-        top: 115%;
-    }
-    .benefits{
-        top: 157.5%;
-    }
-}
-@media(max-width: 820px){
     footer{
-        top: 95%;
+        bottom: -80vh;
     }
 }
-@media(max-width: 768px){
-    footer{
-        top: 105%;
-    }
-}
-@media(max-width: 540px){
-    footer{
-        top: 135%;
-    }
-}
-@media(max-width: 416px){
-    footer{
-        top: 102%;
-    }
-}
-@media(max-width: 415px){
-    footer{
-        top: 122%;
-    }
-}
-@media(max-width: 412px){
-    footer{
-        top: 99%;
-    }
-}
-@media(max-width: 396px){
-    footer{
-        top: 105%;
-    }
-}
-@media(max-width: 390px){
-    .background{
-        padding: 50px;
-        top: 185%;
-    }
-}
-@media(max-width: 376px){
-    footer{
-        top: 130%;
-    }
-}
-@media(max-width: 360px){
-    footer{
-        top: 119%;
-    }
-}
+
