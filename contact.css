@@ -216,6 +216,11 @@ footer{
         top: 155%;
     }
 }
+@media(max-width: 415px){
+    footer{
+        top: 185%;
+    }
+}
 @media(max-width: 412px){
     footer{
         top: 150%;
