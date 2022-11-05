@@ -222,3 +222,8 @@ footer{
         top: 119%;
     }
 }
+@media(max-width: 280px){
+    footer{
+        top: 130%;
+    }
+}
