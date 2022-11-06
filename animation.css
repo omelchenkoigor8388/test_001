@@ -176,7 +176,7 @@ footer{
         top: 109%;
     }
 }
-@media(min-width: 375px){
+@media(width: 375px){
     footer{
         top: 140%;
     }
