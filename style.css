@@ -302,6 +302,30 @@ footer{
         top: 397%;
     }
 }
+@media(max-width: 376px) and  (max-height: 812px){
+    .background{
+        padding: 50px;
+        top: 242%;
+    }
+    .benefits{
+        top: 339%;
+    }
+    footer{
+        top: 396%;
+    }
+}
+@media(min-width: 376px){
+    .background{
+        padding: 50px;
+        top: 199%;
+    }
+    .benefits{
+        top: 279%;
+    }
+    footer{
+        top: 326%;
+    }
+}
 @media(max-width: 360px){
     .background{
         padding: 50px;

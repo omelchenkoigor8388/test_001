@@ -197,11 +197,20 @@ footer{
 }
 @media(max-width: 500px){
     .dawnload{
-
-        bottom: -115vh;
+        bottom: -50vh;
     }
 
     footer{
-        bottom: -120vh;
+        bottom: -60vh;
     }
 }
+
+@media(max-width: 376px) and  (max-height: 812px){
+    .dawnload{
+        bottom: -80%;
+    }
+    footer{
+        top: 180%;
+    }
+}
+

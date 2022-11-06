@@ -171,3 +171,13 @@ footer{
         bottom: -80vh;
     }
 }
+@media(max-width: 377px) and  (max-height: 812px){
+    footer{
+        top: 109%;
+    }
+}
+@media(min-width: 375px){
+    footer{
+        top: 140%;
+    }
+}

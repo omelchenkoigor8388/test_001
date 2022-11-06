@@ -98,11 +98,6 @@ header ul li a:hover:before{
     color: rgb(0, 0, 0);
     background-color: #e3eaee;
 }
-.photo img{
-    width: 100%;
-}
-
-
 
 footer{
     position: absolute;
@@ -170,4 +165,3 @@ footer{
         bottom: -80vh;
     }
 }
-
