@@ -109,7 +109,7 @@ header ul li a:hover:before{
     position: absolute;
     width: 100%;
     height: max-content;
-    top: 165%;
+    top: 169%;
     padding: 70px 220px;
     color: rgb(255, 255, 255);
     background-color: #2b4d78;
@@ -122,7 +122,7 @@ header ul li a:hover:before{
     position: absolute;
     width: 80%;
     height: max-content;
-    top: 225%;
+    top: 229%;
     left: 10%;
     padding: 70px;
     color: rgb(0, 0, 0);
@@ -133,7 +133,7 @@ footer{
     position: absolute;
     width: 100%;
     height: max-content;
-    top: 275%;
+    top: 280%;
     text-align: center;
     color: rgb(255, 255, 255);
     background-color: #3a3a3a;
@@ -314,7 +314,7 @@ footer{
         top: 396%;
     }
 }
-@media(min-width: 376px){
+@media(width: 375px){
     .background{
         padding: 50px;
         top: 199%;
